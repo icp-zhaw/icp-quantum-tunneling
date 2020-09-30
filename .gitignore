@@ -1,0 +1,10 @@
+# Compiled class files
+*.class
+
+# Packages files
+*.jar
+
+# Folders
+.idea/
+simulations/quantum-tunneling/out/
+simulations/quantum-tunneling/deploy/
